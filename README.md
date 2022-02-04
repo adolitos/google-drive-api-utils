@@ -3,6 +3,8 @@ Repo to test google drive api This test uses Google Drive Api V3 https://develop
 
 https://www.youtube.com/watch?v=asrCdWFrF0A
 
+the credentials.json must be placed at the same snippet.py folder level. you put in other place, but then you should change the path in the 6th snippet.py line.
+
 #################################################################################################################
 
 The file and google drive. I have created a shared folder. I have include a csv dummy file in the shared folder. I have granted access in the shared folder to the service account as content manager through Manager Members
